@@ -216,6 +216,12 @@
         "value": "",
         "label": "Description",
         "valueType": "string"
+      },
+      {
+        "component": "car-model",
+        "name": "car-model",
+        "label": "Car Model",
+        "valueType": "string"
       }
     ]
   },
