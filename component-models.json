@@ -192,9 +192,9 @@
       {
         "component": "text",
         "valueType": "string",
-        "name": "imageAlt",
-        "label": "Alt",
-        "value": ""
+        "name": "customassettext",
+        "label": "Custom Asset Text",
+        "value": "xoxo"
       }
     ]
   },
