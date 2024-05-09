@@ -199,6 +199,18 @@
     ]
   },
   {
+    "id": "car-model",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "car-model-text",
+        "label": "Car model Text",
+        "value": "car-model"
+      }
+    ]
+  },
+  {
     "id": "teaser",
     "fields": [
       {
