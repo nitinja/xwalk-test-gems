@@ -3,7 +3,7 @@
 This project (like almost all of Project Helix) is an Open Development project and welcomes contributions from everyone who finds it useful or lacking.
 
 ## Code Of Conduct
-
+`test change`
 This project adheres to the Adobe [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to cstaub at adobe dot com.
 
 ## Contributor License Agreement
@@ -27,7 +27,7 @@ For other contributors, a maintainer of the project has to approve the pull requ
 2. Make some changes on a branch on your fork
 3. Create a pull request from your branch
 
-In your pull request, outline:
+In your pull request, outline: test
 
 * What the changes intend
 * How they change the existing code
