@@ -34,6 +34,13 @@
     ]
   },
   {
+    "id": "custom-asset",
+    "components": [
+      "custom-image",
+      "text"
+    ]
+  },
+  {
     "id": "cards",
     "components": [
       "card"
