@@ -193,20 +193,7 @@
         "component": "text",
         "valueType": "string",
         "name": "customassettext",
-        "label": "Custom Asset Text",
-        "value": "xoxo"
-      }
-    ]
-  },
-  {
-    "id": "car-model",
-    "fields": [
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "car-model-text",
-        "label": "Car model Text",
-        "value": "car-model"
+        "label": "Custom Asset Text"
       }
     ]
   },
@@ -242,9 +229,9 @@
         "valueType": "string"
       },
       {
-        "component": "car-model",
-        "name": "car-model",
-        "label": "Car Model",
+        "component": "custom-asset",
+        "name": "custom-asset",
+        "label": "Custom asset",
         "valueType": "string"
       }
     ]

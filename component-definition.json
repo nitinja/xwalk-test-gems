@@ -107,21 +107,6 @@
           }
         },
         {
-          "title": "Custom Asset",
-          "id": "custom-asset",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/block/v1/block",
-                "template": {
-                  "name": "Custom Asset",
-                  "model": "custom-asset"
-                }
-              }
-            }
-          }
-        },
-        {
           "title": "Cards",
           "id": "cards",
           "plugins": {
@@ -167,15 +152,15 @@
           }
         },
         {
-          "title": "car-model",
-          "id": "car-model",
+          "title": "custom-asset",
+          "id": "custom-asset",
           "plugins": {
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/block/v1/block",
                 "template": {
-                  "name": "car-model",
-                  "model": "car-model"
+                  "name": "custom-asset",
+                  "model": "custom-asset"
                 }
               }
             }
