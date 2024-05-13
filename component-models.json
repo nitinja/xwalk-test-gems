@@ -187,13 +187,38 @@
     ]
   },
   {
-    "id": "custom-asset",
+    "id": "custom-image",
     "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "fileReference",
+        "label": "Image",
+        "multi": false
+      },
       {
         "component": "text",
         "valueType": "string",
-        "name": "customassettext",
-        "label": "Custom Asset Text"
+        "name": "mimeType",
+        "label": "MIME Type"
+      }
+    ]
+  },
+  {
+    "id": "custom-asset",
+    "fields": [
+      {
+        "component": "custom-image",
+        "name": "image",
+        "label": "Image",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "alt",
+        "value": "Default alt",
+        "label": "Alt Text"
       }
     ]
   },
