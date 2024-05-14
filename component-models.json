@@ -195,32 +195,6 @@
         "name": "fileReference",
         "label": "Image",
         "multi": false
-      },
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "mimeType",
-        "label": "MIME Type",
-        "value": "image/myimgtype1"
-      }
-    ]
-  },
-  {
-    "id": "custom-image-mimetype",
-    "fields": [
-      {
-        "component": "reference",
-        "valueType": "string",
-        "name": "fileReference",
-        "label": "Image",
-        "multi": false
-      },
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "mimeType",
-        "label": "MIME Type",
-        "value": "image/myimgtype1"
       }
     ]
   },
@@ -234,11 +208,11 @@
         "valueType": "object"
       },
       {
-        "component": "text",
+        "component": "custom-image-mimetype",
         "valueType": "string",
-        "name": "alt",
-        "value": "Default alt",
-        "label": "Alt Text"
+        "name": "mimeType",
+        "value": "Default MIME",
+        "label": "MIME Type"
       }
     ]
   },
