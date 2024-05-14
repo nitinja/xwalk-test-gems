@@ -214,9 +214,9 @@
         "label": "MIME Type"
       },
       {
-        "component": "custom-image-renditions",
+        "component": "custom-image-rendition",
         "valueType": "string",
-        "name": "imageRenditions",
+        "name": "imageRendition",
         "label": "Rendition"
       }
     ]
