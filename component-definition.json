@@ -191,7 +191,8 @@
                 "template": {
                   "name": "custom-image-rendition",
                   "model": "custom-image-rendition",
-                  "value": "from-config"
+                  "value": "from-config",
+                  "label": "Renditionconf"
                 }
               }
             }
