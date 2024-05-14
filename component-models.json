@@ -211,7 +211,6 @@
         "component": "custom-image-mimetype",
         "valueType": "string",
         "name": "mimeType",
-        "value": "Default MIME",
         "label": "MIME Type"
       }
     ]
