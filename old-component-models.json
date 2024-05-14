@@ -206,25 +206,6 @@
     ]
   },
   {
-    "id": "custom-image-mimetype",
-    "fields": [
-      {
-        "component": "reference",
-        "valueType": "string",
-        "name": "fileReference",
-        "label": "Image",
-        "multi": false
-      },
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "mimeType",
-        "label": "MIME Type",
-        "value": "image/myimgtype1"
-      }
-    ]
-  },
-  {
     "id": "custom-asset",
     "fields": [
       {
@@ -254,16 +235,9 @@
       },
       {
         "component": "text",
-        "name": "imageAlt",
-        "value": "someAltValue..",
-        "label": "Alt text",
-        "valueType": "string"
-      },
-      {
-        "component": "text",
-        "name": "imageMimeType",
-        "value": "image/myimgtype1",
-        "label": "MIME Type",
+        "name": "pretitle",
+        "value": "",
+        "label": "Pre title",
         "valueType": "string"
       },
       {
