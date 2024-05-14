@@ -212,6 +212,12 @@
         "valueType": "string",
         "name": "mimeType",
         "label": "MIME Type"
+      },
+      {
+        "component": "custom-image-renditions",
+        "valueType": "string",
+        "name": "imageRenditions",
+        "label": "Rendition"
       }
     ]
   },
