@@ -205,7 +205,7 @@
         "component": "custom-image",
         "name": "image",
         "label": "Image",
-        "valueType": "object"
+        "valueType": "string"
       },
       {
         "component": "custom-image-mimetype",
