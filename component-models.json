@@ -187,20 +187,14 @@
     ]
   },
   {
-    "id": "custom-image",
-    "fields": [
-      {
-        "component": "reference",
-        "valueType": "string",
-        "name": "fileReference",
-        "label": "Image",
-        "multi": false
-      }
-    ]
-  },
-  {
     "id": "custom-asset",
     "fields": [
+      {
+        "component": "custom-asset-mimetype-filter",
+        "valueType": "string",
+        "name": "customAssetMimeTypeFilter",
+        "label": "MIME Type"
+      },
       {
         "component": "custom-image",
         "name": "image",
@@ -210,60 +204,14 @@
       {
         "component": "custom-image-mimetype",
         "valueType": "string",
-        "name": "mimeType",
+        "name": "imageMimeType",
         "label": "MIME Type"
       },
       {
-        "component": "custom-image-rendition",
+        "component": "custom-image-rendition-filter",
         "valueType": "string",
-        "name": "imageRendition",
+        "name": "customAssetRenditionFilter",
         "label": "Rendition"
-      }
-    ]
-  },
-  {
-    "id": "teaser",
-    "fields": [
-      {
-        "component": "reference",
-        "valueType": "string",
-        "name": "image",
-        "label": "Background Image",
-        "multi": false
-      },
-      {
-        "component": "text",
-        "name": "imageAlt",
-        "value": "someAltValue..",
-        "label": "Alt text",
-        "valueType": "string"
-      },
-      {
-        "component": "text",
-        "name": "imageMimeType",
-        "value": "image/myimgtype1",
-        "label": "MIME Type",
-        "valueType": "string"
-      },
-      {
-        "component": "text",
-        "name": "title",
-        "value": "",
-        "label": "Title",
-        "valueType": "string"
-      },
-      {
-        "component": "richtext",
-        "name": "description",
-        "value": "",
-        "label": "Description",
-        "valueType": "string"
-      },
-      {
-        "component": "custom-asset",
-        "name": "custom-asset",
-        "label": "Custom asset",
-        "valueType": "string"
       }
     ]
   }

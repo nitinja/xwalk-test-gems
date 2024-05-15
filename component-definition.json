@@ -161,7 +161,8 @@
                 "template": {
                   "name": "custom-asset",
                   "model": "custom-asset",
-                  "imageRendition": "testfromconf"
+                  "customAssetRenditionFilter": "1000x1000,image/webp",
+                  "customAssetMimeTypeFilter": "image/*"
                 }
               }
             }
@@ -177,7 +178,8 @@
                 "template": {
                   "name": "custom-asset-1",
                   "model": "custom-asset",
-                  "imageRendition": "another-rendition"
+                  "customAssetRenditionFilter": "1000x1000,image/jpeg",
+                  "customAssetMimeTypeFilter": "video/*"
                 }
               }
             }
