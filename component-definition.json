@@ -146,7 +146,7 @@
                 "template": {
                   "name": "custom-asset",
                   "model": "custom-asset",
-                  "customAssetRenditionFilter": "1000x1000,image/webp",
+                  "customAssetRenditionFilter": "1920x1080,image/webp",
                   "customAssetMimeTypeFilter": "image/*"
                 }
               }
