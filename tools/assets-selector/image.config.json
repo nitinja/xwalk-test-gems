@@ -28,44 +28,34 @@
             "groupKey": "FileTypeGroup"
         },
         {
-            "fields":[
+            "fields": [
               {
-                "element":"Number",
-                "name":"property=jcr:content/metadata/tiff:ImageWidth",
-                "range":true,
-                "orientation":"horizontal",
-                "quiet":false,
-                "label":"Width",
-                "hideArrows":true,
-                "columns":2,
-                "readOnly": true,
-                "defaultValue":[
+                "element": "Number",
+                "name": "imageWidth",
+                "range": true,
+                "quiet": true,
+                "label": "Width",
+                "hideArrows": true,
+                "columns": 2,
+                "defaultValue": [
                   {
-                    "min":0,
-                    "max":1200
+                    "min": 0,
+                    "max": 1000
                   }
                 ]
               },
               {
-                "element":"Number",
-                "name":"property=jcr:content/metadata/tiff:ImageHeight",
-                "range":true,
-                "orientation":"horizontal",
-                "quiet":false,
-                "label":"Height",
-                "hideArrows":true,
-                "columns":2,
-                "readOnly": true,
-                "defaultValue":[
-                    {
-                      "min":0,
-                      "max":800
-                    }
-                  ]
+                "element": "Number",
+                "name": "imageHeight",
+                "range": true,
+                "quiet": true,
+                "label": "Width",
+                "hideArrows": true,
+                "columns": 2
               }
             ],
-            "header":"Size",
-            "groupKey":"SizeGroup"
+            "header": "Size",
+            "groupKey": "SizeGroup"
           }
     ]
 }
