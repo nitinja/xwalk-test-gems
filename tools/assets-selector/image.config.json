@@ -26,6 +26,44 @@
             ],
             "header": "File Type",
             "groupKey": "FileTypeGroup"
-        }
+        },
+        {
+            "fields":[
+              {
+                "element":"Number",
+                "name":"property=jcr:content/metadata/tiff:ImageWidth",
+                "range":true,
+                "orientation":"horizontal",
+                "quiet":false,
+                "label":"Width",
+                "hideArrows":true,
+                "columns":2,
+                "defaultValue":[
+                  {
+                    "min":0,
+                    "max":1200
+                  }
+                ]
+              },
+              {
+                "element":"Number",
+                "name":"property=jcr:content/metadata/tiff:ImageHeight",
+                "range":true,
+                "orientation":"horizontal",
+                "quiet":false,
+                "label":"Height",
+                "hideArrows":true,
+                "columns":2,
+                "defaultValue":[
+                    {
+                      "min":0,
+                      "max":800
+                    }
+                  ]
+              }
+            ],
+            "header":"Size",
+            "groupKey":"SizeGroup"
+          }
     ]
 }
