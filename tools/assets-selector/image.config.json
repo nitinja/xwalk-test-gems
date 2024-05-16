@@ -31,7 +31,7 @@
             "fields": [
               {
                 "element": "Number",
-                "name": "imageWidth",
+                "name": "property=jcr:content/metadata/tiff:ImageWidth",
                 "range": true,
                 "quiet": true,
                 "label": "Width",
