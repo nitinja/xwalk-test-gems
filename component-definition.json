@@ -146,8 +146,6 @@
                 "template": {
                   "name": "custom-asset",
                   "model": "custom-asset",
-                  "customAssetRenditionFilter": "1920x1080",
-                  "customAssetMimeTypeFilter": "image/*",
                   "extConfigUrl": "https://main--xwalk-test-gems--nitinja.hlx.page/tools/assets-selector/image.config.json",
                   "extConfigJson": "{}"
                 }
@@ -165,8 +163,6 @@
                 "template": {
                   "name": "custom-asset-1",
                   "model": "custom-asset",
-                  "customAssetRenditionFilter": "1000x1000,image/jpeg",
-                  "customAssetMimeTypeFilter": "video/*",
                   "extConfigUrl": "https://main--xwalk-test-gems--nitinja.hlx.page/tools/assets-selector/video.config.json",
                   "extConfigJson": "{}"
                 }

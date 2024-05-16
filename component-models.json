@@ -202,12 +202,6 @@
     "id": "custom-asset",
     "fields": [
       {
-        "component": "custom-asset-mimetype-filter",
-        "valueType": "string",
-        "name": "customAssetMimeTypeFilter",
-        "label": "MIME Type"
-      },
-      {
         "component": "custom-image",
         "name": "image",
         "label": "Image",
@@ -218,12 +212,6 @@
         "valueType": "string",
         "name": "imageMimeType",
         "label": "MIME Type"
-      },
-      {
-        "component": "custom-image-rendition-filter",
-        "valueType": "string",
-        "name": "customAssetRenditionFilter",
-        "label": "Rendition"
       },
       {
         "component": "extConfigUrl",
