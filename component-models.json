@@ -226,10 +226,16 @@
         "label": "Rendition"
       },
       {
-        "component": "extConfigDomain",
+        "component": "extConfigUrl",
         "valueType": "string",
-        "name": "extConfigDomain",
+        "name": "extConfigUrl",
         "label": "External asset configuration"
+      },
+      {
+        "component": "extConfigJson",
+        "valueType": "string",
+        "name": "extConfigJson",
+        "label": "External asset json as a string"
       }
     ]
   }

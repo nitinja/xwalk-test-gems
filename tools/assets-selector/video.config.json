@@ -1,0 +1,43 @@
+{
+    "blockName": [
+        {
+            "mimeType": "video/*",
+            "value": "Custom Video"
+        }
+    ],
+    "copyMode": [
+        {
+            "mimeType": "image/*",
+            "value": "reference"
+        }
+    ],
+    "filterSchema": [
+        {
+            "fields": [
+                {
+                    "element": "checkbox",
+                    "name": "type",
+                    "defaultValue": [
+                        "video/*"
+                    ],
+                    "options": [
+                        {
+                            "label": "Video",
+                            "value": "video/*",
+                            "readOnly": true
+                        }
+                    ],
+                    "orientation": "horizontal"
+                }
+            ],
+            "header": "File Type",
+            "groupKey": "FileTypeGroup"
+        }
+    ],
+    "blockTemplate": [
+        {
+            "mimeType": "video/*",
+            "template": "<table><tr><td>Video</td></tr></table>"
+        }
+    ]
+}
