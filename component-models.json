@@ -224,6 +224,12 @@
         "valueType": "string",
         "name": "customAssetRenditionFilter",
         "label": "Rendition"
+      },
+      {
+        "component": "extConfigDomain",
+        "valueType": "string",
+        "name": "extConfigDomain",
+        "label": "External asset configuration"
       }
     ]
   }

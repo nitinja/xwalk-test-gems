@@ -147,7 +147,8 @@
                   "name": "custom-asset",
                   "model": "custom-asset",
                   "customAssetRenditionFilter": "1920x1080",
-                  "customAssetMimeTypeFilter": "image/*"
+                  "customAssetMimeTypeFilter": "image/*",
+                  "extConfigDomain": "https://main--xwalk-test-gems--nitinja.hlx.page"
                 }
               }
             }
