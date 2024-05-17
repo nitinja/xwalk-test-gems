@@ -218,7 +218,7 @@
         "component": "extConfigUrl",
         "valueType": "string",
         "name": "extConfigUrl",
-        "label": "External asset configuration",
+        "label": "External asset configuration"
       }
     ]
   }
