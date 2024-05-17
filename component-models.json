@@ -219,7 +219,6 @@
         "valueType": "string",
         "name": "extConfigUrl",
         "label": "External asset configuration",
-        "hidden": true
       }
     ]
   }
