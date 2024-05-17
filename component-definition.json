@@ -146,7 +146,7 @@
                 "template": {
                   "name": "custom-asset",
                   "model": "custom-asset",
-                  "imageMimeType1": "xoxo",
+                  "imageMimeType": "xoxo",
                   "extConfigUrl": "https://main--xwalk-test-gems--nitinja.hlx.page/tools/assets-selector/image.config.json"
                 }
               }
