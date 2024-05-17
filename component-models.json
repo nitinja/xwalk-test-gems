@@ -218,12 +218,6 @@
         "valueType": "string",
         "name": "extConfigUrl",
         "label": "External asset configuration"
-      },
-      {
-        "component": "extConfigJson",
-        "valueType": "string",
-        "name": "extConfigJson",
-        "label": "External asset json as a string"
       }
     ]
   }

@@ -49,5 +49,6 @@
             "header": "Size",
             "groupKey": "SizeGroup"
           }
-    ]
+    ],
+    "filterReposCondition":[]
 }
