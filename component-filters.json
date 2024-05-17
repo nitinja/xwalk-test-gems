@@ -29,15 +29,8 @@
       "cards",
       "columns",
       "teaser",
-      "custom-asset",
-      "custom-asset-1"
-    ]
-  },
-  {
-    "id": "custom-asset",
-    "components": [
-      "custom-image",
-      "text"
+      "custom-asset-image",
+      "custom-asset-video"
     ]
   },
   {
