@@ -199,7 +199,7 @@
     ]
   },
   {
-    "id": "custom-asset",
+    "id": "configurable-asset-selector:custom-asset",
     "fields": [
       {
         "component": "custom-image",
