@@ -208,6 +208,12 @@
         "valueType": "string"
       },
       {
+        "component": "text",
+        "name": "imageAltText",
+        "label": "Alt text",
+        "valueType": "string"
+      },
+      {
         "component": "configurable-asset-selector:custom-image-mimetype",
         "valueType": "string",
         "name": "imageMimeType",
