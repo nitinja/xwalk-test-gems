@@ -187,7 +187,7 @@
     ]
   },
   {
-    "id": "custom-image",
+    "id": "configurable-asset-selector:custom-image",
     "fields": [
       {
         "component": "reference",
