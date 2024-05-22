@@ -187,26 +187,26 @@
     ]
   },
   {
-    "id": "configurable-asset-selector:custom-asset-image",
+    "id": "configurable-asset-selector:custom-asset-one",
     "fields": [
       {
-        "component": "configurable-asset-selector:custom-image",
+        "component": "configurable-asset-selector:custom-asset",
         "name": "image",
         "label": "Image",
         "configUrl": "https://main--xwalk-test-gems--nitinja.hlx.page/tools/assets-selector/image.config.json",
         "valueType": "string"
       },
       {
+        "component": "configurable-asset-selector:custom-asset-mimetype",
+        "valueType": "string",
+        "name": "imageMimeType",
+        "label": "MIME Type"
+      },
+      {
         "component": "text",
         "name": "imageAlt",
         "label": "Alt text",
         "valueType": "string"
-      },
-      {
-        "component": "configurable-asset-selector:custom-image-mimetype",
-        "valueType": "string",
-        "name": "imageMimeType",
-        "label": "MIME Type"
       }
     ]
   }
