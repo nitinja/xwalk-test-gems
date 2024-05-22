@@ -205,6 +205,7 @@
         "component": "configurable-asset-selector:custom-image",
         "name": "image",
         "label": "Image",
+        "configUrl": "https://main--xwalk-test-gems--nitinja.hlx.page/tools/assets-selector/image.config.json",
         "valueType": "string"
       },
       {
