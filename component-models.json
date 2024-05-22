@@ -187,7 +187,7 @@
     ]
   },
   {
-    "id": "configurable-asset-selector:custom-asset-one",
+    "id": "custom-asset-one",
     "fields": [
       {
         "component": "configurable-asset-selector:custom-asset",
