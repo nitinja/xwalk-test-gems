@@ -187,7 +187,7 @@
     ]
   },
   {
-    "id": "configurable-asset-selector:custom-asset",
+    "id": "configurable-asset-selector:custom-asset-image",
     "fields": [
       {
         "component": "configurable-asset-selector:custom-image",
@@ -207,12 +207,6 @@
         "valueType": "string",
         "name": "imageMimeType",
         "label": "MIME Type"
-      },
-      {
-        "component": "configurable-asset-selector:extConfigUrl",
-        "valueType": "string",
-        "name": "extConfigUrl",
-        "label": "External asset configuration"
       }
     ]
   }
