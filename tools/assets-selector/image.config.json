@@ -4,7 +4,7 @@
         "author"
     ],
     "apiKey": "asset_search_service",
-    "reponame": "author-p130360-e1272151.adobeaemcloud.com",
+    "reponames": ["author-p130360-e1272151.adobeaemcloud.com"],
     "filterSchema": [
         {
             "fields": [

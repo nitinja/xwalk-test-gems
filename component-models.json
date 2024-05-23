@@ -190,21 +190,21 @@
     "id": "custom-asset-one",
     "fields": [
       {
-        "component": "configurable-asset-selector:custom-asset",
+        "component": "custom-asset-namespace:custom-asset",
         "name": "image",
         "label": "Image",
         "configUrl": "https://main--xwalk-test-gems--nitinja.hlx.page/tools/assets-selector/image.config.json",
         "valueType": "string"
       },
       {
-        "component": "configurable-asset-selector:custom-asset-mimetype",
+        "component": "custom-asset-namespace:custom-asset-mimetype",
         "valueType": "string",
         "name": "imageMimeType"
       },
       {
         "component": "text",
         "name": "imageAlt",
-        "label": "Alt text",
+        "label": "Alt Text",
         "valueType": "string"
       }
     ]
@@ -213,14 +213,14 @@
     "id": "custom-asset-two",
     "fields": [
       {
-        "component": "configurable-asset-selector:custom-asset",
+        "component": "custom-asset-namespace:custom-asset",
         "name": "video",
         "label": "Video",
         "configUrl": "https://main--xwalk-test-gems--nitinja.hlx.page/tools/assets-selector/video.config.json",
         "valueType": "string"
       },
       {
-        "component": "configurable-asset-selector:custom-asset-mimetype",
+        "component": "custom-asset-namespace:custom-asset-mimetype",
         "valueType": "string",
         "name": "videoMimeType"
       }
