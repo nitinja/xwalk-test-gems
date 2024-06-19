@@ -187,17 +187,17 @@
     ]
   },
   {
-    "id": "custom-asset-one",
+    "id": "my-custom-asset-one",
     "fields": [
       {
-        "component": "custom-asset-namespace:custom-asset",
+        "component": "my-namespace:custom-asset",
         "name": "image",
         "label": "Image",
         "configUrl": "https://main--xwalk-test-gems--nitinja.hlx.page/tools/assets-selector/image.config.json",
         "valueType": "string"
       },
       {
-        "component": "custom-asset-namespace:custom-asset-mimetype",
+        "component": "my-namespace:custom-asset-mimetype",
         "valueType": "string",
         "name": "imageMimeType"
       },
@@ -210,17 +210,17 @@
     ]
   },
   {
-    "id": "custom-asset-two",
+    "id": "my-custom-asset-two",
     "fields": [
       {
-        "component": "custom-asset-namespace:custom-asset",
+        "component": "my-namespace:custom-asset",
         "name": "video",
         "label": "Video",
         "configUrl": "https://main--xwalk-test-gems--nitinja.hlx.page/tools/assets-selector/video.config.json",
         "valueType": "string"
       },
       {
-        "component": "custom-asset-namespace:custom-asset-mimetype",
+        "component": "my-namespace:custom-asset-mimetype",
         "valueType": "string",
         "name": "videoMimeType"
       }

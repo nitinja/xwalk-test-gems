@@ -5,9 +5,10 @@
     ],
     "apiKey": "asset_search_service",
     "repoNames": [
-      "publish-p108396-e1040009.adobeaemcloud.com",
-      "author-p18453-e47228.adobeaemcloud.com",
-      "publish-p18453-e47228.adobeaemcloud.com"
+      "author-p7452-e733061.adobeaemcloud.com",
+      "author-p7452-e12437.adobeaemcloud.com",
+      "delivery-p130360-e1272151.adobeaemcloud.com",
+      "author-p130360-e1272151.adobeaemcloud.com"
     ],
     "filterSchema": [
         {
