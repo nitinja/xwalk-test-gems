@@ -8,10 +8,10 @@
       "author-p132653-e1287758.adobeaemcloud.com"
     ],
     "preferredDimensions":{
-        "minWidth": 300,
-        "maxWidth": 1000, 
-        "minHeight": 300,
-        "maxHeight": 1000
+        "minWidth": 500,
+        "maxWidth": 3000, 
+        "minHeight": 500,
+        "maxHeight": 3000
     },
     "filterSchema": [
         {
