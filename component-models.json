@@ -240,6 +240,17 @@
         "label": "Image"
       },
       {
+        "component": "custom-asset-namespace:custom-asset-mimetype",
+        "valueType": "string",
+        "name": "imageMimeType"
+      },
+      {
+        "component": "text",
+        "name": "imageAlt",
+        "label": "Image Alt Text",
+        "valueType": "string"
+      },
+      {
         "component": "custom-asset-namespace:custom-asset",
         "configUrl": "https://raw.githubusercontent.com/nitinja/xwalk-test-gems/main/tools/assets-selector/image.config.json",
         "valueType": "string",
@@ -249,12 +260,12 @@
       {
         "component": "custom-asset-namespace:custom-asset-mimetype",
         "valueType": "string",
-        "name": "imageMimeType"
+        "name": "image_mobileMimeType"
       },
       {
         "component": "text",
-        "name": "imageAlt",
-        "label": "Alt Text",
+        "name": "image_mobileAlt",
+        "label": "Mobile Image Alt Text",
         "valueType": "string"
       }
     ]
