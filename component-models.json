@@ -260,6 +260,7 @@
       {
         "component": "custom-asset-namespace:custom-asset-mimetype",
         "valueType": "string",
+        "hidden": true,
         "name": "image_mobileMimeType"
       },
       {
