@@ -194,7 +194,6 @@
         "name": "image",
         "label": "Image",
         "configUrl": "https://raw.githubusercontent.com/nitinja/xwalk-test-gems/main/tools/assets-selector/image.config.json",
-        "configFileName": "image.config.json",
         "valueType": "string",
         "myValue": "myValue1"
       },
@@ -219,7 +218,6 @@
         "name": "video",
         "label": "Video",
         "configUrl": "https://raw.githubusercontent.com/nitinja/xwalk-test-gems/main/tools/assets-selector/video.config.json",
-        "configFileName": "video.config.json",
         "valueType": "string"
       },
       {
