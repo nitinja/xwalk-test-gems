@@ -172,7 +172,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/image/v1/image",
+                "resourceType": "core/franklin/components/image/v1/block",
                 "template": {
                   "name": "Custom Multi Asset One",
                   "model": "custom-multi-asset-one"
