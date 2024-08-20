@@ -234,17 +234,17 @@
         "component": "custom-asset-namespace:custom-asset",
         "configUrl": "https://raw.githubusercontent.com/nitinja/xwalk-test-gems/main/tools/assets-selector/image.config.json",
         "valueType": "string",
-        "name": "image",
+        "name": "image_desktop",
         "label": "Image"
       },
       {
         "component": "custom-asset-namespace:custom-asset-mimetype",
         "valueType": "string",
-        "name": "imageMimeType"
+        "name": "image_desktopMimeType"
       },
       {
         "component": "text",
-        "name": "imageAlt",
+        "name": "image_desktopAlt",
         "label": "Image Alt Text",
         "valueType": "string"
       },
