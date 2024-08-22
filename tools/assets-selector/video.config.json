@@ -6,6 +6,7 @@
     "apiKey": "asset_search_service",
     "repoNames": [],
     "aem:tier":"delivery",
+    "videoResponseType" : "manifest",
     "filterSchema": [
         {
             "fields": [
