@@ -13,6 +13,7 @@
         "minHeight": 500,
         "maxHeight": 3000
     },
+    "enableRenditionSelector":"true",
     "filterSchema": [
         {
             "fields": [
